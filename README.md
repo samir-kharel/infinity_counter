@@ -1,1 +1,1 @@
-This is a website that infinitly starts a counting website when clicked "START COUNTER".
+Infinitely starts counting by random increments each time with a 500ms delay. This is my first-ever project!
